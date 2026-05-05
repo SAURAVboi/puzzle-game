@@ -1,0 +1,21 @@
+Simple Free License
+
+Copyright (c) 2026 Codemun
+
+This software is free to use for everyone without any cost or payment required.
+
+You are allowed to use, copy, modify, improve, and share this software freely.
+
+You can distribute it to others, but it must always remain free to use.
+
+You are not allowed to sell this software or include it in any paid product.
+
+You cannot charge any fee for access to this software, either directly or indirectly.
+
+You must always give proper credit to Codemun in any copies or modified versions.
+
+You are allowed to make changes, but you cannot claim the original work as your own.
+
+This software is provided "as is", without any warranty of any kind.
+
+The author is not responsible for any damage, loss, or issues caused by using this software.
