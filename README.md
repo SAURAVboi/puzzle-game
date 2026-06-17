@@ -1,6 +1,6 @@
 # Puzzle Game
 
-A fun and crazy jigsaw puzzle game with advanced features and smooth gameplay.
+A fun and crazy puzzle 🧩 game with advanced features and smooth experience .
 
 ## Features
 - Irregular puzzle pieces  
